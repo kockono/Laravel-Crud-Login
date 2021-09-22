@@ -20,6 +20,8 @@ php artisan serve
 
 ## Instalación Con  Dockers
 ___
+Falta crear la carpeta mysql si se quiere tener en el contenedor aparte
+
 *Crear Contenedor*
 ```
 docker-compose up -d
