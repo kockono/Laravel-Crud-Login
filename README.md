@@ -22,11 +22,11 @@ php artisan serve
 ___
 Falta crear la carpeta mysql si se quiere tener en el contenedor aparte
 
-*Crear Contenedor*
+**Crear Contenedor**
 ```
 docker-compose up -d
 ```
-*Eliminar Contenedor*
+**Eliminar Contenedor**
 ```
 docker-compose down
 ```
