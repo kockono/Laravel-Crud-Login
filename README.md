@@ -1,5 +1,4 @@
 ## Metodo De Instalación Normal
-___
 1. Entrar a src 
 ```
 cd src
@@ -19,7 +18,6 @@ php artisan serve
 <br>
 
 ## Instalación Con  Dockers
-___
 Falta crear la carpeta mysql si se quiere tener en el contenedor aparte
 
 **Crear Contenedor**
