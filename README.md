@@ -11,9 +11,17 @@ npm install
 ```
 npm run dev
 ```
-4. Correr el servidor
+4. Crear Migración 
+```
+php artisan migrate
+```
+5. Correr el servidor
 ```
 php artisan serve
+```
+6. Cambiar las variables de entorno para tu base de datos el
+```
+.env
 ```
 <br>
 
